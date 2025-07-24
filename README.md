@@ -67,9 +67,5 @@ I'm a passionate **Software Engineer** from Brazil 🇧🇷 with a strong focus 
 ---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=franzinBr&color=blueviolet&style=for-the-badge)
-  
   ⭐️ **"Code is poetry written in logic"** ⭐️
-  
 </div>
